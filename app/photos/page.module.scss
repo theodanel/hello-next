@@ -1,0 +1,9 @@
+.items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.item {
+    flex-basis: 15rem;
+}
